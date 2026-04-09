@@ -1,0 +1,4 @@
+boost-base_task/build/
+Qt-full_task/client/build
+Qt-full_task/server/build
+./vscode

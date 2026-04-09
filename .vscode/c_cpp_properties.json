@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:HOME}/.conan/data/boost/1.78.0/_/_/package/a94eafcb3eebd616b9da0ef197566daec5ae2b04/include",
+                "${env:HOME}/.conan/data/boost/1.78.0/_/_/package/ab28f8d0fd3d55f1b177840565fc4e5dedc9151b/include"
+            ],
+            "defines": ["BOOST_BEAST_USE_STD_STRING_VIEW"]
+        }
+    ],
+    "version": 4
+}
